@@ -1,0 +1,50 @@
+body{
+   
+    background-image: url(https://i.pinimg.com/736x/8c/43/64/8c43645fe8d0ac164a6925448be32858.jpg)
+}
+.main{
+    height: 450px;
+    width: 260px;
+    background-color: black;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 60px;
+     padding: 10px;
+     border-radius: 15px;
+     box-shadow: 10px 10px 5px rgb(82, 82, 82);
+
+}
+button{
+   
+   padding: 18px;
+   margin: 5px;
+   border-radius: 10px;
+   background-color: rgb(208, 208, 208);
+  font-weight: bold;
+  font-size: 20px;
+  box-shadow: 3px 3px 5px rgb(82, 82, 82);
+ 
+}
+.textarea{
+    width: 250px;
+    padding: 4px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: rgb(208, 208, 208);
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+    
+
+}
+
+.equal{
+    width: 106px;
+}
+
+.clear{
+    color: red;
+}
+.del{
+    color: green;
+}
